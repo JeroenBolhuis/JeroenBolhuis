@@ -1,6 +1,6 @@
 # Jeroen Bolhuis
 
-I'm a full-stack developer in Eindhoven, the Netherlands, building web applications with Laravel and Livewire. I study Computer Science at Avans University of Applied Sciences.
+Full-stack developer in Eindhoven, the Netherlands, building web applications and automations. I study Computer Science at Avans University of Applied Sciences.
 
 ## Selected work
 
